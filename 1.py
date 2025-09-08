@@ -15,3 +15,4 @@ print(f"Python内置: {time1:.6f}秒")
 print(f"gmpy2: {time2:.6f}秒")
 print(f"加速比: {time1/time2:.2f}倍")
 
+xbbxb
